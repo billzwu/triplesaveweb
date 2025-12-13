@@ -130,6 +130,14 @@ body {
     text-align: center;
 }
 
+.hero-tagline {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #fbbf24;
+    margin-bottom: 1.5rem;
+    text-transform: none;
+}
+
 .hero-title {
     font-size: 3.5rem;
     font-weight: 700;
