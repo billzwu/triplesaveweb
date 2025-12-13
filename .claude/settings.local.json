@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/billzwu/Documents/git/**)",
+      "Bash(git log:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(grep:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
